@@ -1,5 +1,6 @@
 package algorithmBeauty.elementary._01xor;
 
+
 import org.junit.Test;
 
 /**
